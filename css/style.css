@@ -9528,6 +9528,10 @@ button.bg-dark:focus {
   color: var(--gray-dark) !important;
 }
 
+.text-primary-title {
+  color: #ffffff !important;
+}
+
 a.text-primary:hover, a.text-primary:focus {
   color: #078571 !important;
 }
@@ -9803,7 +9807,7 @@ h6,
 
 .navbar-light .navbar-nav .nav-link:hover,
 .navbar-light .navbar-nav .nav-link.active {
-  color: #0BCEAF;
+  color: darkblue;
 }
 
 @media (max-width: 991.98px) {
